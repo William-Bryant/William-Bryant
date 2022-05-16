@@ -1,20 +1,14 @@
 <div align ='center'>
-  
-
- 
   <img src = 'https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width = '130'/><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willbryant-/)
-  
+  <a href="https://www.linkedin.com/in/willbryant-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = '150'></a>
   <h1>
   Hi there
   <img src = 'https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width = 30px />
   </h1>
-</div
+</div>
           
-<div id= 'aboutme'>
-<h2>
-  About me:
-</h2>  
+<div id= 'aboutme' align = 'center' >
+
 I am a senior at Temple University's Fox School of Business studying Management Information Systems and Information Science & Technology, as well as working towards a certificate in programming.<br><br>
 Currently, I am seeking an entry level software engineering position following my graduation in spring 2023.
 </div><br>
@@ -23,7 +17,7 @@ Currently, I am seeking an entry level software engineering position following m
  <h2>
    Skills & Languages:
  </h2>
-  This is a collection of some of the technical skills I have experience with both inside and outside of the classroom.<br>
+  This is a collection of some of the technical skills I have experience with both inside and outside of the classroom.<br><br>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' width='60' height='60'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg' width='60' height='60'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg' width='60' height='60'/>
@@ -39,7 +33,7 @@ Currently, I am seeking an entry level software engineering position following m
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg' width='60' height='60'/>
 </div><br>
 
-<div id = 'contact'>
+<div id = 'contact' align = 'center'>
 <h2>
   Contact Me
 </h2>
