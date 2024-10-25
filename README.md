@@ -2,14 +2,14 @@
   <img src = 'https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width = '130'/><br>
   <a href="https://www.linkedin.com/in/willbryant-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = '150'></a>
   <h1>
-  Hi there
+  Hi 
   <img src = 'https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width = 45px height = 45px />
   </h1>
 </div>
           
 <div id= 'aboutme' align = 'center' >
 
-I am a senior at Temple University's Fox School of Business studying Management Information Systems and Information Science & Technology, as well as working towards a certificate in programming.<br><br>
+I am a senior at Temple University's Fox School of Business studying Management Information Systems and Information Science & Technology.<br><br>
 Currently, I am seeking an entry level software engineering position following my graduation in spring 2023.
 </div><br>
 
